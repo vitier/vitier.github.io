@@ -3737,7 +3737,7 @@ input, select, textarea {
 			-ms-transition: color 0.2s ease;
 			transition: color 0.2s ease;
 			border: 0;
-			color: rgba(87, 93, 144, 0.35);
+			color: rgba(87, 93, 144, 0.75);
 			display: block;
 			font-size: 0.6em;
 			font-weight: bold;
@@ -3761,7 +3761,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #ffffff;
+				background: #8CBCB9;
 			}
 
 			#sidebar nav a:after {
