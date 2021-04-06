@@ -3360,7 +3360,7 @@ input, select, textarea {
 
 		.wrapper.fade.inactive > .inner,
 		body.is-preload .wrapper.fade > .inner {
-			opacity: 1;
+			opacity: 0;
 		}
 
 /* Header */
@@ -3504,7 +3504,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(0, 0, 0, 0.15);
+		border-bottom-color: rgba(0, 0, 0, 1.);
 	}
 
 		#footer > .inner a:hover {
@@ -3513,7 +3513,7 @@ input, select, textarea {
 
 	#footer > .inner .menu {
 		font-size: 0.8em;
-		color: rgba(0, 0, 0, 0.15);
+		color: rgba(0, 0, 0, 1.);
 	}
 
 	#header + #wrapper + #footer > .inner {
