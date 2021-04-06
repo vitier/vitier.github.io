@@ -3913,3 +3913,8 @@ input, select, textarea {
 #avatar {
   border-radius: 50%;
 }
+
+.logos {
+	padding: 5px;
+  width: 150px;
+}
