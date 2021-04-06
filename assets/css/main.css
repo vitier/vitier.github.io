@@ -2824,7 +2824,7 @@ input, select, textarea {
 			}
 
 				ul.icons li > a .label, ul.icons li > span .label {
-					display: none;
+					/*display: none;*/
 				}
 
 /* Menu */
