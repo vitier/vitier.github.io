@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #ff00ff;
+			background-color: #ffffff;
 		}
 
 		.wrapper.style3-alt {
@@ -3360,7 +3360,7 @@ input, select, textarea {
 
 		.wrapper.fade.inactive > .inner,
 		body.is-preload .wrapper.fade > .inner {
-			opacity: 0;
+			opacity: 1;
 		}
 
 /* Header */
