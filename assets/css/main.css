@@ -3907,3 +3907,8 @@ input, select, textarea {
 			}
 
 		}
+
+/* MY STUFF */
+img {
+  border-radius: 50%;
+}
