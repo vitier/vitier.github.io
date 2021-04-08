@@ -3914,6 +3914,11 @@ input, select, textarea {
 	border-radius: 50%;
 }
 
+#content{
+	text-align: justify;
+  text-justify: inter-word;
+}
+
 .logos {
 	padding: 5px;
   height: 100px;
